@@ -4,7 +4,11 @@ rgs = {
     location = "centralindia"
   }
     rg2 = {
-    name     = "rg-chor-prod"
+    name     = "rg-chor2-prod"
+    location = "centralindia"
+  }
+    rg5 = {
+    name     = "rg-chor5-prod"
     location = "centralindia"
   }
 }
